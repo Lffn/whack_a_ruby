@@ -12,3 +12,5 @@ end
 
 window = WhackARuby.new
 window.show
+
+#why doesn't code push to github?
